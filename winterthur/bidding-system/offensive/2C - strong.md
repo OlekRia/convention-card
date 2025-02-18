@@ -1,0 +1,38 @@
+# 2C Force Game opening
+
+The 2♣ opening in this system always shows a strong hand, which can be one of three types:
+
+    1️⃣ Balanced (21+ HCP) → Strong NT-like hands.
+    2️⃣ One-Suiter (9+ tricks in a suit) → A long, strong suit (♠/♥/♦/♣).
+    3️⃣ Two-Suiter (at least 5-5 wild shape, very strong) → Highly distributional hands.
+
+In case of Wild sitributions (2 and 3 cases) we have only 4 losers in the hand
+
+## Responder’s Responses – Control Showing
+
+The responder answers in “Controls” (Aces = 2, Kings = 1) instead of
+traditional step responses.
+Responder’s Bid Control Points Meaning
+
+    2♦    0 or 1 Controls Weak hand, 0-1 Aces/Kings
+    2♥    2 Controls At least 2 Kings or 1 Ace
+    2♠    3 Controls Any combination adding to 3 (1 Ace + 1 King)
+    2NT   3 Controls 3 Kings
+
+And this is really rare but possible in a wild distribution:
+
+    2NT   4 Controls 2 Aces or 1 Ace + 2 Kings
+    3♣    5 Controls 3 Aces, or 2 Aces + 1 King
+    3♦+   6+ Controls 3+ Aces, or 2 Aces + multiple Kings
+
+## Opener Bid:
+
+    2NT - 22 + PC Balanced, Stayman transefrs
+    3C, 3D, 3H 3S - Single wild suited
+    3NT - Any Wild 55, Minimax bidding
+    4C - Wild 64+ in minor, =4D
+    4D - Wild 64+ in monors, =4C
+    4H - Wild Two suiters in Majors, preference H
+    4S - Wild Two Suiters in Majors, preference S
+
+Everythig else goes in a natural order
