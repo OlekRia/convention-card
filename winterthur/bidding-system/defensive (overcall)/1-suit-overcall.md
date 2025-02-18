@@ -25,9 +25,9 @@ to bid.
 
 Everything quite classic:
 
-    1 minor - 2 minor = 55 in Majors
-    1 major - 2 major = 55 other major and minor
-    1 major - 2nt = 55 in minors
+    1 minor - 2 same minor = 55 in Majors
+    1 major - 2 same major = 55 other major and minor
+    1 major - 2nt          = 55 in minors
 
 Answer in minimax manner
 
